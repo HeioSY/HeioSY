@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba, Ben Tuğrul Bulut! 👋</h1>
 
-<h3 align="center">Gazi Üniversitesi Yönetim Bilişim Sistemleri (YBS) Son Sınıf Öğrencisi | İş Analisti & Geliştirici</h3>
+<h3 align="center">Gazi Üniversitesi Yönetim Bilişim Sistemleri (YBS) Son Sınıf Öğrencisi </h3>
 
 <p align="center">
   Teknoloji ve iş dünyası arasındaki köprüyü kurmaya odaklanan bir Yönetim Bilişim Sistemleri öğrencisiyim. Karmaşık iş süreçlerini dijitalleştirmek, veri tabanlı kararlar üretmek ve IoT çözümleriyle verimlilik sağlamak üzerine uzmanlaşıyorum.
