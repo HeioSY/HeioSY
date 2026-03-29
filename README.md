@@ -1,32 +1,59 @@
-Merhaba, ben Tuğrul 👋
-Yönetim Bilişim Sistemleri | Gazi Üniversitesi · 4. Sınıf
-ERP sistemleri, web geliştirme ve veri analitiği alanlarında deneyim kazanmış bir YBS öğrencisiyim. Derslerimde edindiğim teorik ve pratik bilgileri gerçek dünya projelerine uygulamak için staj imkânı arıyorum.
+<h1 align="center">Merhaba, Ben Tuğrul Bulut! 👋</h1>
+
+<h3 align="center">Gazi Üniversitesi Yönetim Bilişim Sistemleri (YBS) Son Sınıf Öğrencisi | İş Analisti & Geliştirici</h3>
+
+<p align="center">
+  Teknoloji ve iş dünyası arasındaki köprüyü kurmaya odaklanan bir Yönetim Bilişim Sistemleri öğrencisiyim. Karmaşık iş süreçlerini dijitalleştirmek, veri tabanlı kararlar üretmek ve IoT çözümleriyle verimlilik sağlamak üzerine uzmanlaşıyorum.
+</p>
+
 ---
-🛠️ Teknolojiler & Araçlar
-Diller
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-Framework & Araçlar
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🚀 Neler Yapıyorum?
+
+- 🎓 **Eğitim:** Gazi Üniversitesi'nde son sınıf öğrencisiyim (AGNO: 3.13).
+- 💡 **Mezuniyet Projesi:** **IoT Tabanlı Akıllı Atık Yönetim Sistemi** geliştiriyorum. RFID/QR kullanıcı tanımlama, ağırlık sensörü entegrasyonu ve rota optimizasyonu üzerine çalışıyorum.
+- 🎯 **Kariyer Hedefi:** Savunma sanayii ve kamu dijital dönüşüm projelerinde (Cumhurbaşkanlığı Dijital Dönüşüm Ofisi, SSB vb.) katma değer sağlamak.
+
 ---
-🎯 İlgi Alanları
-🌐 Full Stack Web Geliştirme
-📊 ERP Sistemleri & İş Süreçleri
-📈 Veri Analitiği & Raporlama
-💻 Bilgi Teknolojileri Yönetimi
+
+### 🛠️ Teknolojiler ve Araçlar
+
+**Backend & Frameworks:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Database:**
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ---
-📊 GitHub İstatistikler
-![Tuğrul'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=HeioSY&show_icons=true&theme=default&hide_border=true&count_private=true)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=HeioSY&layout=compact&theme=default&hide_border=true)
+
+### 🎓 Öne Çıkan Akademik Yetkinlikler
+
+Akademik hayatım boyunca teorik bilgiyi projelerle birleştirmeye odaklandım. Yetkin olduğum bazı dersler:
+
+* **Yazılım & Sistem:** Nesne Yönelimli Programlama (AA), Sistem Analizi ve Tasarımı (BB), Kurumsal Kaynak Planlaması (AA).
+* **İnovasyon & Veri:** Nesnelerin İnterneti (AA), İş Zekası ve Veri Madenciliği, Veri Görselleştirme (AA).
+* **Güvenlik & Yönetim:** Siber Güvenlik (BA), Bilgi Teknolojileri ve Siber Güvenlik (AA), Proje Yönetimi (BA).
+
 ---
-📫 İletişim
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### ⚡ Hakkımda Bazı Notlar
+
+- 🎮 Strateji ve askeri tarih tutkunuyum; Hearts of Iron IV gibi oyunlarda makro planlama ve kriz yönetimi yapmayı severim.
+
 ---
-Staj başvurusu için benimle iletişime geçebilirsiniz.
+
+### 📫 İletişime Geçin
+
+- **E-posta:** [tugrul.bulut2003@gmail.com](mailto:tugrul.bulut2003@gmail.com)
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeioSY&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
